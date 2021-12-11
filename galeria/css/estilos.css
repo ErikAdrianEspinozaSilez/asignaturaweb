@@ -1,0 +1,16 @@
+body{
+    background: #333;
+}
+    .galeria { width:100%; }
+    .galeria img {
+    height: 200px;
+    vertical-align: top;
+    opacity:0.5;
+    border: 1px solid #888;
+    padding: 5px;
+    margin:10px;
+}
+    .galeria img:hover{
+    opacity:1;
+    border: 1x solid #FFF;
+}
