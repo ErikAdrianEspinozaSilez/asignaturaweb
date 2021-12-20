@@ -1,9 +1,10 @@
 body{
-    background: #333;
+    background: #d40d0d;
+    
 }
     .galeria { width:100%; }
     .galeria img {
-    height: 200px;
+    height: 400px;
     vertical-align: top;
     opacity:0.5;
     border: 1px solid #888;
@@ -12,5 +13,5 @@ body{
 }
     .galeria img:hover{
     opacity:1;
-    border: 1x solid #FFF;
+    border: 1x solid #e8fffd;
 }

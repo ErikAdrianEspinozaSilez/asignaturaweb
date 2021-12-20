@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\HP\\Desktop\\webb\\asignaturaweb\\index.html"
+            "name": "Open galeria.html",
+            "file": "c:\\Users\\ASUS\\Desktop\\webb\\asignaturaweb-1\\galeria.html"
         }
     ]
 }
